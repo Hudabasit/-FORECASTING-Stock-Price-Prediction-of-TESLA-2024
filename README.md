@@ -1,4 +1,4 @@
-This Project builds a Prophet Machine learning model in order to forecast the price of Tesla 30 days into the future. I have taken Data from 9 March 2023 to 9 March 2024.
+This Project builds a Prophet Machine learning model in order to forecast the price of Tesla 30 days into the future. Project is done in Jupyter Notebook and language used is Python. I have taken Data from 9 March 2023 to 9 March 2024.
 I have visualized the historical performance of Tesla through graphs and charts using Plotly express and evaluated the performance of the model against 
 real data using Google Finance in Google Sheets. 
 
